@@ -1,0 +1,4 @@
+---
+# defaults file for tlaplus
+tlaplus_version: 1.7.0
+macos_tlaplus_checksum: sha1:b44ae6b693147db58f0e13d0d4ec8371f60c3ea4
